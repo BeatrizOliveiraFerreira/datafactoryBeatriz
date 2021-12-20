@@ -1,0 +1,12 @@
+{
+	"name": "AzureMySqlTable1Beatriz",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "MySqlBeatrizSakila",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureMySqlTable",
+		"schema": []
+	}
+}
