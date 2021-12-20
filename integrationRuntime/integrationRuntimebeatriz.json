@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimebeatriz",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
