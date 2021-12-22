@@ -27,7 +27,7 @@
 				}
 			},
 			{
-				"name": "ForEach1",
+				"name": "ForEachteste",
 				"type": "ForEach",
 				"dependsOn": [
 					{
@@ -40,7 +40,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"items": {
-						"value": "@activity('ListTableSakila').output.value",
+						"value": "@activity('exportarteste').output.values",
 						"type": "Expression"
 					},
 					"activities": [
