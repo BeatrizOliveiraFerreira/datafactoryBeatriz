@@ -40,7 +40,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"items": {
-						"value": "@activity('exportarteste').output.values",
+						"value": "@activity('exportarteste').output.value",
 						"type": "Expression"
 					},
 					"activities": [
