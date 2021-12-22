@@ -1,8 +1,8 @@
 {
-	"name": "MySqlTable1",
+	"name": "AzureMyqlteste",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "MySql1Carloca",
+			"referenceName": "MySqlBeatrizSakila",
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
@@ -11,7 +11,7 @@
 			}
 		},
 		"annotations": [],
-		"type": "MySqlTable",
+		"type": "AzureMySqlTable",
 		"schema": [],
 		"typeProperties": {
 			"tableName": {

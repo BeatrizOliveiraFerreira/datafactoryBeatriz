@@ -1,12 +1,12 @@
 {
-	"name": "MySqlTableBeatrizCarloca",
+	"name": "AzureMySqlTable2",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "MySql1Carloca",
+			"referenceName": "MySqlBeatrizSakila",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
-		"type": "MySqlTable",
+		"type": "AzureMySqlTable",
 		"schema": []
 	}
 }
