@@ -5,16 +5,22 @@
 		"factoryName": {
 			"value": "beatrizdata"
 		},
-		"MySqlBeatrizSakila_connectionString": {
+		"AzureDataLakeStoragebeatriz_accountKey": {
 			"value": ""
 		},
 		"MySql1Carloca_connectionString": {
 			"value": ""
 		},
-		"AzureDataLakeStoragebeatriz_accountKey": {
+		"MySqlBeatrizSakila_connectionString": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
 		"AzureDataLakeStoragebeatriz_properties_typeProperties_url": {
+			"value": "https://stabeatriz.dfs.core.windows.net"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://stabeatriz.dfs.core.windows.net"
 		},
 		"containerUri": {
